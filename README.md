@@ -1,4 +1,7 @@
 # ViPER4Android FX
+
+- Clone this into **packages/apps/ViPER4AndroidFX/**
+
 - Add this in **device.mk**: $(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
 
 Add this to your **audio_effects.xml**:
